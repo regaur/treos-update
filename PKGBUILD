@@ -1,6 +1,6 @@
 # Maintainer: Jan Boelsche <jan@lagomorph.de>
 pkgname=treos-update
-pkgver=1.4.0
+pkgver=1.4.1
 pkgrel=1
 pkgdesc="Update a treos system image"
 arch=('any')
